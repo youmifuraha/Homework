@@ -228,3 +228,4 @@ ggplot(data = top10, aes(x = reorder(job, mean_income), y = mean_income)) +
   coord_flip()
 
 # 숙제 끝
+# 왜 안 올라가니..
